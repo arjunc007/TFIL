@@ -1,0 +1,2 @@
+colliding with wall breaks respawn
+throw repositions character

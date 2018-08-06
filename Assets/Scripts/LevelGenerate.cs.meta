@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f792370e4084b8f44aff82dd4ecd64a7
+timeCreated: 1529485574
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sphere: {fileID: 1020066756799534, guid: b09dc1c0519835c48a951411ee577373, type: 2}
+  - cube: {fileID: 1881290758495808, guid: 31476b7807d447040bb3e3be3fa572d3, type: 2}
+  - cylindar: {fileID: 1223801285754348, guid: 5dd72414743e2aa48a4fbf27cd484732, type: 2}
+  - renctangle: {fileID: 1120665685748250, guid: 7b892cb0fe716264d91eb67a01172b82,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
